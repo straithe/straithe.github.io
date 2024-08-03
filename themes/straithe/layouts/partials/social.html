@@ -1,0 +1,53 @@
+<div class="pure-menu social">
+  <h3>Social</h3>
+
+  <ul class="pure-menu-list">
+    {{ with .Site.Social.github }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://github.com/{{ . }}" target="_blank">GitHub</a>
+    </li>
+    {{ end }}
+
+    {{ with .Site.Social.instagram }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://instagram.com/{{ . }}" target="_blank">Instagram</a>
+    </li>
+    {{ end }}    
+
+    {{ with .Site.Social.mastodon }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://infosec.exchange/{{ . }}" target="_blank">Mastodon</a>
+    </li>
+    {{ end }}  
+
+    {{  with .Site.Social.patreon }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://www.patreon.com/{{ . }}" target="_black">Patreon</a>
+    </li>
+    {{ end }}
+
+    {{  with .Site.Social.steam }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://steamcommunity.com/id/{{ . }}" target="_black">Steam</a>
+    </li>
+    {{ end }}
+
+    {{  with .Site.Social.twitch }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://twitch.tv/{{ . }}" target="_black">Twitch</a>
+    </li>
+    {{ end }}
+
+    {{ with .Site.Social.twitter }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://twitter.com/{{ . }}" target="_blank">Twitter</a>
+    </li>
+    {{ end }}    
+
+    {{ with .Site.Social.youtube }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://youtube.com/user/{{ . }}" target="_blank">YouTube</a>
+    </li>
+    {{ end }}    
+  </ul>
+</div>

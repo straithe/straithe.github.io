@@ -1,0 +1,55 @@
+baseURL = "https://straithe.com/"
+languageCode = "en-us"
+title = "Straithe // B.Postnikoff"
+theme = "straithe"
+author = "straithe"
+
+
+#Shown at the bottom of the page
+copyright = "&copy; Straithe // B.Postnikoff."
+cononifyurls = true
+
+
+[params]
+  # CSS name for highlight.js
+  highlightjs = "androidstudio"
+  dateFormat = "2006-01-02"
+
+
+# Shown in the side menu.
+[menu]
+  [[menu.main]]   
+    name = "home"
+    weight = 1
+    identifier = "about"
+    url = "/about/"
+  [[menu.main]]
+    name = "speaking"
+    weight = 2
+    identifier = "speaking"
+    url = "/speaking/"    
+  [[menu.main]]
+    name = "publications"
+    weight = 3
+    identifier = "publications"
+    url = "/publications/"
+  [[menu.main]]
+    name = "support me"
+    weight = 4
+    identifier = "support"
+    url = "/support/"
+  [[menu.main]]
+    name = "Contact"
+    weight = 5
+    identifier = "contact"
+    url = "/contact/"
+
+
+[social]
+  github = "straithe"
+  instagram = "straithe"
+  mastodon = "@straithe"
+  patreon = "straithe"
+  steam = "straithe"
+  twitch = "str41the"
+  twitter = "straithe"  

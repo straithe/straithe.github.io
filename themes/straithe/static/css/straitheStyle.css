@@ -1,0 +1,386 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd,  ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+/* End HTML reset */
+
+
+
+/* ---------------------------------------- */
+/* GENERIC CSS SETTINGS*/
+html {
+  font-family: 'Lato', sans-serif;
+  background: white;
+}
+
+body {
+  color: black;
+}
+
+b {
+  font-weight: bold;
+  font-size: 1.20em;
+}
+
+i {
+  font-style: italic;
+}
+
+.content a {
+  font-family: inherit;
+  font-weight: bold;
+  color: black;
+  text-transform: uppercase;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+.pure-img-responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+h2 {
+  font-size: 2em;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 40px;
+  margin-bottom: 5px;
+  line-height: 1em;
+}
+
+.small-print{
+  color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h3 {
+  color: white;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-left: 10px;
+  font-size: 1.25em;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+h4 {
+  color: #edcb0e;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 2em;
+  padding-top: 1em;
+  font-style: italic;
+}
+
+
+/* ---------------------------------------- */
+/* HEADER */
+
+.header {
+  margin: 0;
+  color: #333;
+  text-align: center;
+  padding: 1em 1em;
+  border-bottom: 2px solid black;
+  font-family: inherit;
+}
+
+.header h1 {
+  margin: 0.2em 0;
+  font-size: 2.5em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.header h2 {
+  color: #edcb0e;
+  padding: 0;
+  margin-top: 0;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.content-subhead {
+  margin: 30px 0 20px 0;
+  font-weight: 300;
+  color: #888;
+}
+
+
+
+/* ---------------------------------------- */
+/* CONTENT */
+/* The content `<div>` is where all your content goes. */
+.content {
+  margin: 0 auto;
+  padding: 0 2em;
+  max-width: 1000px;
+  margin-bottom: 50px;
+  line-height: 1.6em;
+}
+
+blockquote {
+  padding-left: 25px;
+  font-style: italic;
+}
+
+p {
+  padding-bottom: 6px;
+  padding-top: 6px;
+}
+
+strong {
+  font-weight: bold;
+}
+
+
+
+/* ---------------------------------------- */
+/* CONTAINER TRANSITION */
+/* Add transition to containers so they can push in and out. */
+#layout,
+#menu,
+.menu-link {
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  -ms-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+
+
+/* ---------------------------------------- */
+/* This is the parent `<div>` that contains the menu and the content area. */
+#layout {
+  position: relative;
+  left: 0;
+  padding-left: 0;
+}
+
+#layout.active #menu {
+  left: 275px;
+  width: 275px;
+}
+
+#layout.active .menu-link {
+  left: 275px;
+}
+
+
+
+/* ---------------------------------------- */
+/* The `#menu` `<div>` is the parent `<div>` that contains the `.pure-menu` that
+appears on the left side of the page. */
+#menu {
+  margin-left: -275px; /* "#menu" width */
+  width: 275px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 1000; /* so the menu or its navicon stays above all content */
+  background: black;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+    
+/* All anchors inside the menu should be styled like this. */
+#menu a {
+  color: #edcb0e;
+  font-family: inherit;
+  font-size: 1.06em;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase; 
+  
+  border: none;
+  line-height: 1.5em;
+}
+
+/* Remove all background/borders, since we are applying them to #menu. */
+#menu .pure-menu,
+#menu .pure-menu ul {
+  border: none;
+  background: transparent;
+}
+
+/* Add that light border to separate items into groups. */
+#menu .pure-menu ul,
+#menu .pure-menu .menu-item-divided {
+  border-top: 15px solid black;
+}
+
+/* Change color of the anchor links on hover/focus. */
+#menu .pure-menu li a:hover,
+#menu .pure-menu li a:focus {
+  color:black;
+  background-color: #edcb0e;
+  font-weight: bold;
+  line-height: 1.5em;
+}
+
+/* This styles the selected menu item `<li>`. */
+#menu .pure-menu-selected,
+#menu .pure-menu-heading {
+  background: #1f8dd6;
+}
+
+/* This styles a link within a selected menu item `<li>`. */
+#menu .pure-menu-selected a {
+  color: #fff;
+}
+
+/* This styles the menu heading. */
+#menu .pure-menu-heading {
+  font-size: 110%;
+  color: #fff;
+  margin: 0;
+}
+
+
+
+/* -- Dynamic Button For Responsive Menu -------------------------------------*/
+/* The button to open/close the Menu is custom-made and not part of Pure. Here's
+how it works: */
+
+/* `.menu-link` represents the responsive menu toggle that shows/hides on
+small screens. */
+.menu-link {
+  position: fixed;
+  display: block; /* show this only on small screens */
+  top: 0;
+  left: 0; /* "#menu width" */
+  background: #000;
+  background: rgba(0,0,0,0.7);
+  font-size: 10px; /* change this value to increase/decrease button size */
+  z-index: 10;
+  width: 2em;
+  height: auto;
+  padding: 1.5em 1.5em;
+}
+
+.menu-link:hover,
+.menu-link:focus {
+  color:black;
+  background-color: black;
+  font-weight: bold;
+}
+
+.menu-link span {
+  position: relative;
+  display: block;
+}
+
+.menu-link span,
+.menu-link span:before,
+.menu-link span:after {
+  background-color: #fff;
+  width: 100%;
+  height: 0.2em;
+}
+
+.menu-link span:before,
+.menu-link span:after {
+  position: absolute;
+  margin-top: -0.6em;
+  content: " ";
+}
+
+.menu-link span:after {
+  margin-top: 0.6em;
+}
+
+
+
+
+/* Hides the menu at `48em`, but modify this based on your app's needs. */
+@media (min-width: 48em) {
+  .header,
+  .content {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+
+  #layout {
+    padding-left: 275px; /* left col width "#menu" */
+    left: 0;
+  }
+
+  #menu {
+    left: 275px;
+  }
+
+  .menu-link {
+    position: fixed;
+    left: 275px;
+    display: none;
+  }
+
+  #layout.active .menu-link {
+    left: 275px;
+  }
+}
+
+
+
+
+
+@media (max-width: 48em) {
+  /* Only apply this when the window is small. Otherwise, the following
+  case results in extra padding on the left:
+    * Make the window small.
+    * Tap the menu to trigger the active state.
+    * Make the window large again.
+  */
+  #layout.active {
+    position: relative;
+    left: 300px;
+  }
+}
