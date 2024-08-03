@@ -22,7 +22,7 @@ cononifyurls = true
     name = "home"
     weight = 1
     identifier = "about"
-    url = "/about/"
+    url = "/"
   [[menu.main]]
     name = "speaking"
     weight = 2
