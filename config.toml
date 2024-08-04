@@ -34,14 +34,9 @@ cononifyurls = true
     identifier = "publications"
     url = "/publications/"
   [[menu.main]]
-    name = "support me"
+    name = "Contact and Links"
     weight = 4
-    identifier = "support"
-    url = "/support/"
-  [[menu.main]]
-    name = "Contact"
-    weight = 5
-    identifier = "contact"
+    identifier = "contact and support"
     url = "/contact/"
 
 
