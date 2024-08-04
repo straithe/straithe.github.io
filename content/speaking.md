@@ -31,7 +31,7 @@ description = "Presentations, Panels, and Interviews"
 ## 2018
 * The Silver Bullet Podcast (Show 149): Brittany Postnikoff discusses the maker culture and the problem with robots, 2018. 
 
-* [(Responsible?) Offensive Machine Learning](https://aivillage.org/posts/panel-announcement/), DEF CON [AI Village], 2018. 
+* (Responsible?) Offensive Machine Learning, DEF CON [AI Village], 2018. 
 
 * Hackademia: The 2018 Literature Review, BSidesLV, 2018. 
 
