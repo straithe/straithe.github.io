@@ -1,9 +1,23 @@
 +++ 
 title = "Straithe // B.Postnikoff"
-date = "2020-09-22"
+date = "2024-08-04"
 sidemenu = "true"
-description = "Publications"
+description = "Blog and Publications"
 +++
+
+## Blog Posts
+#### Die Cut Digest (Sticker Interviews)
+(2019-08-19) Die Cut Digest \#1: [WiFiKraken Sticker](/posts/2019-08-19-wifikraken-sticker)  
+(2019-11-22) Die Cut Digest \#2: [Unattended Device Sticker](/posts/2019-11-22-unattended-sticker)  
+(2019-12-08) Die Cut Digest \#3: [Unnamed Reverse Engineering Podcast Sticker](/posts/2019-12-08-unre-sticker)  
+(2020-08-11) Die Cut Digest \#4: [Colorado Open Source Hardware Flag Sticker](/posts/2020-08-11-colorado-open-source-sticker)
+
+#### Hardware Design Writeups
+(2019-10-30) [Building Neighbour Spot](/posts/2019-10-30-building-neighbour-spot)
+
+#### Posts on other websites
+* [Patreon (Open Access)](https://www.patreon.com/straithe)
+* [Great Scott Gadgets](https://greatscottgadgets.com/)
 
 ## Theses
 * Postnikoff, Brittany. [Robot Social Engineering](https://uwspace.uwaterloo.ca/bitstream/handle/10012/16030/Postnikoff_Brittany.pdf?sequence=3&isAllowed=y). 2020. 

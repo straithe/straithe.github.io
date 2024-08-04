@@ -29,7 +29,7 @@ cononifyurls = true
     identifier = "speaking"
     url = "/speaking/"    
   [[menu.main]]
-    name = "publications"
+    name = "blog and publications"
     weight = 3
     identifier = "publications"
     url = "/publications/"
@@ -38,13 +38,3 @@ cononifyurls = true
     weight = 4
     identifier = "contact and support"
     url = "/contact/"
-
-
-[social]
-  github = "straithe"
-  instagram = "straithe"
-  mastodon = "@straithe"
-  patreon = "straithe"
-  steam = "straithe"
-  twitch = "str41the"
-  twitter = "straithe"  
