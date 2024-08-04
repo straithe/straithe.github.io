@@ -82,6 +82,10 @@ ul {
   height: auto;
 }
 
+img {
+  max-width: 100%;
+}
+
 h2 {
   font-size: 2em;
   font-weight: bold;
