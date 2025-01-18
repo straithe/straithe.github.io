@@ -12,7 +12,7 @@ For business or collaboration inquiries, you can send me an email at b@straithe.
 ## Links
 
 #### Social Media (Alphabetical)
-* [Bluesky](https://bsky.app/profile/straithe.bsky.social)
+* [Bluesky](https://bsky.app/profile/straithe.com)
 * [GitHub](https://github.com/straithe/)
 * [Instagram](https://www.instagram.com/straithe/)
 * [Instagram - modeling](https://www.instagram.com/straithe_in_frame/)
