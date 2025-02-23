@@ -14,16 +14,13 @@ For business or collaboration inquiries, you can send me an email at b@straithe.
 #### Social Media (Alphabetical)
 * [Bluesky](https://bsky.app/profile/straithe.com)
 * [GitHub](https://github.com/straithe/)
-* [Instagram](https://www.instagram.com/straithe/)
+* [Instagram - projects](https://www.instagram.com/straithe/)
 * [Instagram - modeling](https://www.instagram.com/straithe_in_frame/)
-* [Instagram - photography](http://instagram.com/straithe_photography)
 * [Mastodon](https://infosec.exchange/@straithe)
 * [TikTok](https://www.tiktok.com/@straithe)
-* [Twitter / X](https://twitter.com/Straithe)
 * [YouTube](https://www.youtube.com/@straithe)
 
 #### Support Me  
-* [Haxessories, Inc.](https://www.etsy.com/shop/Haxessories)
 * [Only Fans](https://onlyfans.com/straithe)
 * [Patreon (Open Access)](https://www.patreon.com/straithe)
 * [Amazon Wish List](https://www.amazon.ca/hz/wishlist/ls/I848NBYMNOXC?ref_=wl_share)
@@ -37,7 +34,7 @@ For business or collaboration inquiries, you can send me an email at b@straithe.
 
 ## Mailing Address
 
-I love receiving mail (not the bill kind). If you would like to send me a package or letter in the mail, please send it here:
+I love receiving mail! If you would like to send me a package or letter in the mail, please send it here:
 
 Straithe  
 622 Dundas Street, Suite 151  
