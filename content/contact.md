@@ -1,6 +1,6 @@
 +++ 
 title = "Straithe // B.Postnikoff"
-date = "2024-08-04"
+date = "2025-03-07"
 sidemenu = "true"
 description = "Contact and Links"
 +++
@@ -14,8 +14,7 @@ For business or collaboration inquiries, you can send me an email at b@straithe.
 #### Social Media (Alphabetical)
 * [Bluesky](https://bsky.app/profile/straithe.com)
 * [GitHub](https://github.com/straithe/)
-* [Instagram - projects](https://www.instagram.com/straithe/)
-* [Instagram - modeling](https://www.instagram.com/straithe_in_frame/)
+* [Instagram](https://www.instagram.com/straithe/)
 * [Mastodon](https://infosec.exchange/@straithe)
 * [TikTok](https://www.tiktok.com/@straithe)
 * [YouTube](https://www.youtube.com/@straithe)
