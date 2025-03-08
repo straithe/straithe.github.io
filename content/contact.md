@@ -28,7 +28,6 @@ For business or collaboration inquiries, you can send me an email at b@straithe.
 #### Gaming
 * [Twitch](https://www.twitch.tv/str41the)
 * [Steam](https://steamcommunity.com/id/Straithe/)
-* [Discord](https://discord.gg/VTGEEbgsJm)
 
 
 ## Mailing Address
