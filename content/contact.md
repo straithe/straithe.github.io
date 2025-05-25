@@ -20,6 +20,7 @@ For business or collaboration inquiries, you can send me an email at b@straithe.
 * [YouTube](https://www.youtube.com/@straithe)
 
 #### Support Me  
+* [MakerWorld](https://makerworld.com/en/@straithe)
 * [Only Fans](https://onlyfans.com/straithe)
 * [Patreon (Open Access)](https://www.patreon.com/straithe)
 * [Amazon Wish List](https://www.amazon.ca/hz/wishlist/ls/I848NBYMNOXC?ref_=wl_share)
