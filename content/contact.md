@@ -23,8 +23,8 @@ For business or collaboration inquiries, you can send me an email at b@straithe.
 * [MakerWorld](https://makerworld.com/en/@straithe)
 * [Only Fans](https://onlyfans.com/straithe)
 * [Patreon (Open Access)](https://www.patreon.com/straithe)
-* [Amazon Wish List](https://www.amazon.ca/hz/wishlist/ls/I848NBYMNOXC?ref_=wl_share)
 * [PayPal](https://paypal.me/straithe)
+* [Wish List](https://www.amazon.ca/hz/wishlist/ls/I848NBYMNOXC?ref_=wl_share)
 
 #### Gaming
 * [Twitch](https://www.twitch.tv/str41the)
