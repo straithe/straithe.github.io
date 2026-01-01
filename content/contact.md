@@ -16,12 +16,10 @@ For business or collaboration inquiries, you can send me an email at b@straithe.
 * [GitHub](https://github.com/straithe/)
 * [Instagram](https://www.instagram.com/straithe/)
 * [Mastodon](https://infosec.exchange/@straithe)
-* [TikTok](https://www.tiktok.com/@straithe)
+* [MakerWorld](https://makerworld.com/en/@straithe)
 * [YouTube](https://www.youtube.com/@straithe)
 
 #### Support Me  
-* [MakerWorld](https://makerworld.com/en/@straithe)
-* [Only Fans](https://onlyfans.com/straithe)
 * [Patreon (Open Access)](https://www.patreon.com/straithe)
 * [PayPal](https://paypal.me/straithe)
 * [Wish List](https://www.amazon.ca/hz/wishlist/ls/I848NBYMNOXC?ref_=wl_share)
