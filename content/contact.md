@@ -14,14 +14,11 @@ For business or collaboration inquiries, you can send me an email at b@straithe.
 #### Social Media (Alphabetical)
 * [Bluesky](https://bsky.app/profile/straithe.com)
 * [GitHub](https://github.com/straithe/)
-* [Instagram - projects](https://www.instagram.com/straithe/)
-* [Instagram - modeling](https://www.instagram.com/straithe_in_frame/)
+* [Instagram](https://www.instagram.com/straithe/)
 * [Mastodon](https://infosec.exchange/@straithe)
-* [TikTok](https://www.tiktok.com/@straithe)
 * [YouTube](https://www.youtube.com/@straithe)
 
 #### Support Me  
-* [Only Fans](https://onlyfans.com/straithe)
 * [Patreon (Open Access)](https://www.patreon.com/straithe)
 * [Amazon Wish List](https://www.amazon.ca/hz/wishlist/ls/I848NBYMNOXC?ref_=wl_share)
 * [PayPal](https://paypal.me/straithe)
