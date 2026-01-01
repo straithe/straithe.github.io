@@ -1,6 +1,6 @@
 +++ 
 title = "Straithe // B.Postnikoff"
-date = "2024-08-04"
+date = "2025-03-07"
 sidemenu = "true"
 description = "Contact and Links"
 +++
@@ -16,17 +16,17 @@ For business or collaboration inquiries, you can send me an email at b@straithe.
 * [GitHub](https://github.com/straithe/)
 * [Instagram](https://www.instagram.com/straithe/)
 * [Mastodon](https://infosec.exchange/@straithe)
+* [MakerWorld](https://makerworld.com/en/@straithe)
 * [YouTube](https://www.youtube.com/@straithe)
 
 #### Support Me  
 * [Patreon (Open Access)](https://www.patreon.com/straithe)
-* [Amazon Wish List](https://www.amazon.ca/hz/wishlist/ls/I848NBYMNOXC?ref_=wl_share)
 * [PayPal](https://paypal.me/straithe)
+* [Wish List](https://www.amazon.ca/hz/wishlist/ls/I848NBYMNOXC?ref_=wl_share)
 
 #### Gaming
 * [Twitch](https://www.twitch.tv/str41the)
 * [Steam](https://steamcommunity.com/id/Straithe/)
-* [Discord](https://discord.gg/VTGEEbgsJm)
 
 
 ## Mailing Address
