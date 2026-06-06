@@ -24,7 +24,7 @@ cononifyurls = true
     identifier = "about"
     url = "/"
   [[menu.main]]
-    name = "speaking"
+    name = " public speaking"
     weight = 2
     identifier = "speaking"
     url = "/speaking/"    
