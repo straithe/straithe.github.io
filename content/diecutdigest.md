@@ -1,6 +1,6 @@
 +++ 
 title = "Straithe // B.Postnikoff"
-date = "2020-09-22"
+date = "2026-06-06"
 sidemenu = "true"
 description = "Die Cut Digest"
 +++
@@ -9,7 +9,7 @@ description = "Die Cut Digest"
 This project is focused on highlighting the creative and artistic skill within the security and technology industries as demonstrated through stickers. In this project I capture sticker stories through written articles, Twitch interviews, YouTube videos, and photography. I am also building a sticker archive to preserve these pieces of art.
 
 ## Outcomes
-* [Blog posts](../publications) about the history of some stickers.
+* [Die Cut Digest Blog posts](https://www.patreon.com/collection/2204630) about the history of some stickers.
 * [YouTube video interviews](https://www.youtube.com/@diecutdigest804) about the history of some stickers as told by the folks that created them. 
 
 ## Contributing
