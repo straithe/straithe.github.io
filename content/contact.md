@@ -20,6 +20,7 @@ For business or collaboration inquiries, you can send me an email at b@straithe.
 * [YouTube](https://www.youtube.com/@straithe)
 
 #### Support Me  
+* [Etsy](https://straithelaboratories.etsy.com/)
 * [Patreon (Open Access)](https://www.patreon.com/straithe)
 * [PayPal](https://paypal.me/straithe)
 * [Wish List](https://www.amazon.ca/hz/wishlist/ls/I848NBYMNOXC?ref_=wl_share)
